@@ -1,0 +1,38 @@
+body {
+    background-color:#f0a818;
+    color: #2b2628;
+}
+h1 {
+    background-color:#2c9fa3;
+    font-family:Trebuchet MS;
+    font-size: 40px;
+    margin: 10px;
+    padding:20px;
+    text-align:center
+  }
+h2 {
+    background-color:#2c9fa3;
+    font-family:Trebuchet MS;
+    font-size: 25px;
+    margin: 10px;
+    padding:20px;
+    text-align:left
+  }
+  p{
+    color:#2b2628;
+    background-color:#f1e8b4;
+    font-family:Arial;
+    font-size: 20px;
+    margin:30px;
+    padding:10px;
+    text-align:center
+  }
+  hr {
+    border-color:#2b2628
+  }
+  .titulo {
+    background-color: red;
+    padding: 10%;
+    border: 10px dotted black;
+
+  }
